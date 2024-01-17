@@ -1,6 +1,6 @@
 # Prethesis Project
 
-Thesis project. More information is available [here](https://dse.fmi.uni-sofia.bg/graduation-bg.htm).
+Thesis project. More information is available [here](https://ci.fmi.uni-sofia.bg/) and [here](https://dse.fmi.uni-sofia.bg/graduation-bg.htm).
 
 ## Plan of Attack
 
@@ -9,8 +9,24 @@ Thesis project. More information is available [here](https://dse.fmi.uni-sofia.b
 - [X] Create an initial outline in the documentation using `task.pdf`.
 - [X] Update structure of documentation so that it is ready for review.
 - [X] Add links to the papers in MLA Style.
-- [ ] Get approval for structure.
-- [ ] Extend plan by breaking down the writing process into subtasks.
+- [X] Get approval for structure.
+- [X] Extend plan by breaking down the writing process into subtasks.
+- [X] Write the literature review part. Include the "Evaluation" part of the papers discussed in the our paper.
+- [ ] Provide statistics about the final dataset.
+- [ ] Write about train/test split.
+  - [ ] Maybe also about mini-set creation.
+- [ ] Describe the implementation part.
+  - [ ] used Python scripts
+  - [ ] libraries and what they do
+  - [ ] explain the pipeline (maybe also include a diagram)
+    - [ ] explain each step in the pipeline (maybe include commands to start parts of it)
+- [ ] Write about the evaluations.
+  - [ ] Explain the APIs (various problems there are when interacting with it).
+  - [ ] What prompt was used.
+  - [ ] Comparison with baseline.
+  - [ ] Performance and Error analysis.
+- [ ] Write about GPT evaluation.
+- [ ] Write about GPT evaluation.
 
 ## Resources
 
