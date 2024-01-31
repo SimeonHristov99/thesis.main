@@ -12,20 +12,14 @@ Thesis project. More information is available [here](https://ci.fmi.uni-sofia.bg
 - [X] Get approval for structure.
 - [X] Extend plan by breaking down the writing process into subtasks.
 - [X] Write the literature review part. Include the "Evaluation" part of the papers discussed in the our paper.
-- [ ] Provide statistics about the final dataset.
-- [ ] Write about train/test split.
-  - [ ] Maybe also about mini-set creation.
-- [ ] Describe the implementation part.
-  - [ ] used Python scripts
-  - [ ] libraries and what they do
-  - [ ] explain the pipeline (maybe also include a diagram)
-    - [ ] explain each step in the pipeline (maybe include commands to start parts of it)
+- [X] Provide statistics about the final dataset.
+- [X] Write about train/test split.
+- [X] Describe the implementation part.
 - [ ] Write about the evaluations.
-  - [ ] Explain the APIs (various problems there are when interacting with it).
-  - [ ] What prompt was used.
+  - [X] Explain the APIs (various problems there are when interacting with it).
+  - [X] What prompt was used.
   - [ ] Comparison with baseline.
   - [ ] Performance and Error analysis.
-- [ ] Write about GPT evaluation.
 - [ ] Write about GPT evaluation.
 
 ## Resources
