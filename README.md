@@ -21,9 +21,9 @@ Thesis project. More information is available [here](https://ci.fmi.uni-sofia.bg
   - [X] What prompt was used.
   - [X] Add baseline and analyze it.
   - [X] Performance and Error analysis.
-- [ ] Finish the discussion.
-- [ ] Finish the conclusion.
-- [ ] Finish the introduction.
+- [X] Finish the discussion.
+- [X] Finish the conclusion.
+- [X] Finish the introduction.
 
 ## Resources
 
