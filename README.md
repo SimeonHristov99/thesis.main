@@ -15,12 +15,12 @@ Thesis project. More information is available [here](https://ci.fmi.uni-sofia.bg
 - [X] Provide statistics about the final dataset.
 - [X] Write about train/test split.
 - [X] Describe the implementation part.
+- [X] Refactor written text.
 - [ ] Write about the evaluations.
   - [X] Explain the APIs (various problems there are when interacting with it).
   - [X] What prompt was used.
   - [ ] Comparison with baseline.
   - [ ] Performance and Error analysis.
-- [ ] Write about GPT evaluation.
 
 ## Resources
 
