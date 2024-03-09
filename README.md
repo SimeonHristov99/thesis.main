@@ -24,6 +24,9 @@ Thesis project. More information is available [here](https://ci.fmi.uni-sofia.bg
 - [X] Finish the discussion.
 - [X] Finish the conclusion.
 - [X] Finish the introduction.
+- [X] Address feedback.
+- [X] Write extended abstract.
+- [X] Create PowerPoint presentation.
 
 ## Resources
 
