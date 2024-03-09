@@ -1,4 +1,4 @@
-# Prethesis Project
+# Thesis Project
 
 Thesis project. More information is available [here](https://ci.fmi.uni-sofia.bg/) and [here](https://dse.fmi.uni-sofia.bg/graduation-bg.htm).
 
